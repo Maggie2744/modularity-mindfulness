@@ -14,3 +14,15 @@ html {
   position: absolute;
   top: -3em;
 }
+
+.btn-ghost {
+  background-color: transparent;
+  border-color: #8bc9d9;
+  color: #005e76;
+}
+
+.btn-ghost:hover {
+  background-color: #8bc9d9;
+  border-color: #0084a6;
+  color: #005e76;
+}
