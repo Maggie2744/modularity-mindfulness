@@ -17,11 +17,11 @@ html {
 
 .nav a {
   text-decoration: none;
-  color: #0084a6;
+  color: #005e76;
 }
 
 .nav a:hover {
-  color: #005e76;
+  color: #000;
 }
 
 .btn-ghost {
@@ -38,4 +38,8 @@ html {
 
 .line-break {
   border-color: #e2e2e2;
+}
+
+@media only screen and (min-width: 60em) {
+
 }
