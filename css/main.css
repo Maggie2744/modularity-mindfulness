@@ -4,6 +4,10 @@ html {
   color: #000;
 }
 
+p {
+  font-family: "Noto Sans", sans-serif;
+}
+
 .skip-links {
   margin: 0;
   padding: 0;
@@ -16,7 +20,6 @@ html {
 }
 
 .nav a {
-  text-decoration: none;
   color: #005e76;
 }
 
