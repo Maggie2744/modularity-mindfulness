@@ -18,7 +18,6 @@ html {
 .nav a {
   text-decoration: none;
   color: #0084a6;
-  text-decoration: underline;
 }
 
 .nav a:hover {
