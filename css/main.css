@@ -19,12 +19,19 @@ p {
   top: -3em;
 }
 
-.nav a {
+a {
   color: #005e76;
+  border-bottom: 1px solid #005e76;
+  padding: .3em;
+  text-decoration: none;
 }
 
 .nav a:hover {
   color: #000;
+}
+
+.intro {
+  line-height: 25px;
 }
 
 .btn-ghost {
