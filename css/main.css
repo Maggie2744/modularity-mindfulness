@@ -8,6 +8,10 @@ p {
   font-family: "Noto Sans", sans-serif;
 }
 
+h4 {
+  font-family: "Noto Sans", sans-serif;
+}
+
 .skip-links {
   margin: 0;
   padding: 0;
@@ -22,16 +26,12 @@ p {
 a {
   color: #005e76;
   border-bottom: 1px solid #005e76;
-  padding: .3em;
+  padding-bottom: .3em;
   text-decoration: none;
 }
 
 .nav a:hover {
   color: #000;
-}
-
-.intro {
-  line-height: 25px;
 }
 
 .btn-ghost {
